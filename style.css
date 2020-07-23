@@ -38,12 +38,12 @@ hr {
   text-transform: uppercase;
 }
 
-.btn-primary {
+.btn-secondary {
   background-color: #DD7A64;
   border-color: #DD7A64;
 }
 
-.btn-primary:hover {
+.btn-secondary:hover {
   background-color: #F9B7A9;
   border-color: #F9B7A9;
 }
